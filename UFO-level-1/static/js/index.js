@@ -1,6 +1,5 @@
 // from data.js
 var tableData = data;
-// YOUR CODE HERE!
 // render table content
 renderTable(tableData);
 function renderTable(tableData) {
